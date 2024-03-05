@@ -1,4 +1,4 @@
-# luckfox_yolov5_dma
+# luckfox_pico_yolov5_dma
 使用 luckfox-pico 借助 opencv-mobile 实现 yolov5 摄像头实时推理，作为 dma 使用的参考例程。
 
 # 编译
